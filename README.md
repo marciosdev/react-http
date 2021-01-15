@@ -8,7 +8,7 @@ React HTTP project request with Fetch API.
 npm install
 ```
 
-## Hot to execute?
+## How to execute?
 
 ```sh
 npm start
