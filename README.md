@@ -1,17 +1,17 @@
-# React com Http
+# React Http
 
-Projeto em React com exemplo de requisições HTTP com Fecth API.
+React HTTP project request with Fetch API.
 
-## Instalar dependencias
+## How to install?
 
 ```sh
 npm install
 ```
 
-## Executar Aplicação
+## Hot to execute?
 
 ```sh
 npm start
 ```
 
-Então abra [http://localhost:3000/](http://localhost:3000/) para ver a Aplicação.
+Open [http://localhost:3000/](http://localhost:3000/) to show the App.
